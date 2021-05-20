@@ -1,5 +1,6 @@
 # No Coverage Open Dataset
-!(/CristyBranum/no-coverage-open-dataset/blob/main/CoverageNoCoverageImage.png)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](/CristyBranum/no-coverage-open-dataset/blob/main/CoverageNoCoverageImage.png)
 
 
 # SUMMARY
