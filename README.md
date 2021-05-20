@@ -1,4 +1,4 @@
-# no-coverage-open-dataset
+# SUMMARY
 Description
 “Inverse coverage” polygon dataset (absence of coverage/no coverage)-- Invert Mosaik marketed coverage data to show locations where no data connectivity is available
 
