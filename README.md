@@ -1,5 +1,5 @@
 # No Coverage Open Dataset
-(/CristyBranum/no-coverage-open-dataset/blob/main/CoverageNoCoverageImage.png)
+!(/CristyBranum/no-coverage-open-dataset/blob/main/CoverageNoCoverageImage.png)
 
 
 # SUMMARY
