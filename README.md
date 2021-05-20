@@ -26,7 +26,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
   * Item 2b
 
 
-First Header For Table Of Info | Second Header For Table Of Info
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+What | Why | Notes
+------------ | ------------- | -------------
+Tiles | Showing Where There's No Coverage | Lots'o'Work
+Pretty Colors | Lots Of Holes In Coverage | Even More Renders
